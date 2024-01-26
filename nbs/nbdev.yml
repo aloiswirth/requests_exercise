@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "requests_exercise"
+  site-url: "https://aloiswirth.github.io/requests_exercise"
+  description: "Exercise for doing http requests"
+  repo-branch: main
+  repo-url: "https://github.com/aloiswirth/requests_exercise"
